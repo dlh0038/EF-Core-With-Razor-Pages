@@ -27,3 +27,12 @@ A series of code first approach tutorials that show how to use Entity Framework 
 # Tutorial 4 of 8
     removed context.Database.EnsureCreated(); from Program.cs
     created initial DB migration
+
+# Tutorial 5 of 8
+    Updated and created new entities based on the data model illustration.
+    NOTE: the Instructor and Course entities have a many-to-many relationship using a pure join table (PJT).
+    Updated DBContext
+    since using SQLite, had to drop and reseed db
+        dotnet ef database drop --force
+        dotnet ef migrations add InitialCreate
+        dotnet ef database update
