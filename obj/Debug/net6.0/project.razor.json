@@ -16298,6 +16298,11 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+      "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16323,6 +16328,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+      "TargetPath": "Pages\\Courses\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
       "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
@@ -16343,6 +16353,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+      "TargetPath": "Pages\\Courses\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+      "TargetPath": "Pages\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
       "TargetPath": "Pages\\Students\\Index.cshtml",
       "FileKind": "mvc"
@@ -16350,6 +16370,11 @@
     {
       "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+      "TargetPath": "Pages\\Courses\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
