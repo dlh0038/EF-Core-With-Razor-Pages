@@ -19,3 +19,5 @@ A series of code first approach tutorials that show how to use Entity Framework 
     display enrollments per student
 
 # Tutorial 3 of 8
+    replaced code in Index.cshtml and Index.cshtml.cs to enable sorting by lastname and enrollment date
+    updated code in Index.cshtml and Index.cshtml.cs to search by last and first name
