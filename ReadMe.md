@@ -21,3 +21,9 @@ A series of code first approach tutorials that show how to use Entity Framework 
 # Tutorial 3 of 8
     replaced code in Index.cshtml and Index.cshtml.cs to enable sorting by lastname and enrollment date
     updated code in Index.cshtml and Index.cshtml.cs to search by last and first name
+    created pagination to show 3 students at a time
+    created grouping on About page to list number of students registered by date
+
+# Tutorial 4 of 8
+    removed context.Database.EnsureCreated(); from Program.cs
+    created initial DB migration
