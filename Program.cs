@@ -29,7 +29,7 @@ using (var scope = app.Services.CreateScope()) //added using scoped block
     var services = scope.ServiceProvider;
 
     var context = services.GetRequiredService<SchoolContext>();
-    context.Database.EnsureCreated();
+    //context.Database.EnsureCreated(); used for creating a db if one does not exist
     DbInitializer.Initialize(context);
 }
 
