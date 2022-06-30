@@ -16356,6 +16356,11 @@
       "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\ContosoUniversity\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
