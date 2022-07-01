@@ -40,3 +40,8 @@ A series of code first approach tutorials that show how to use Entity Framework 
 # Tutorial 6 of 8
     scaffolded new entities
     dotnet aspnet-codegenerator razorpage -m Course -dc SchoolContext -udl -outDir Pages\Courses --referenceScriptLibraries
+    created InstructorIndex view model
+    dotnet aspnet-codegenerator razorpage -m Instructor -dc SchoolContext -udl -outDir Pages\Instructors --referenceScriptLibraries
+
+# Tutorial 7 of 8
+    
