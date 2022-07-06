@@ -3,7 +3,10 @@ Following tutorial on: https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/i
 
 Completed app available at: https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/data/ef-rp/intro/samples/cu60
 
-A series of code first approach tutorials that show how to use Entity Framework (EF) Core in an ASP.NET Core Razor Pages app. The tutorials build a web site for a fictional Contoso University. The site includes functionality such as student admission, course creation, and instructor assignments. 
+A series of code first approach tutorials that show how to use Entity Framework (EF) Core in an ASP.NET Core Razor Pages app. The tutorials build a web site for a fictional Contoso University. The site includes functionality such as student admission, course creation, and instructor assignments.
+
+# Example Screenshot
+![screenshot](/example%20screenshot.PNG)
 
 # Tutorial 1 of 8
     dotnet new webapp -o ContosoUniversity
